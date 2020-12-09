@@ -8,6 +8,9 @@ Aus einer Menge von Zutaten sollen passende Rezepte mithilfe einer App gefunden 
 Außerdem sollen bereits gekochte Rezepte gespeichert werden.
 Fehlende Zutaten werden automatisch auf eine Einkaufsliste gesetzt.
 
+## API
+API: https://spoonacular.com/food-api
+
 ## Ideen
 - Standardzutaten
 - *live request*
