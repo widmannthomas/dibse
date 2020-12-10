@@ -28,3 +28,4 @@ API: https://spoonacular.com/food-api
 - Level
 - Für wie viele Personen wird gekocht?
 - Zu Beginn vielleicht ein paar kleine Fragen (Allergene, vegetarier, veganer, bevorzugte Küche), die dann in einem Profil gespeichert und jederzeit geändert werden können. Vielleicht sogar auch vom Profil aus in sein Inventar zugreifen und Zutaten hinzufügen bzw. löschen.
+- Zur Tinder-integration eine Idee: Man bekommt Rezeptvorschläge wie bei Tinder und kann dan swipen. Wird nach rechts?? oder links geswiped. Wird dementsprechend das Rezept vollständig angezeigt und es gibt einen counter, wie oft ein Rezept "gekocht" wurde, also ein Match stattgefunden hat. Dies könnte man dann auch einsehen, so wie ein ranking. Dies kann man so weit treiben, dass man einfach per zufall und sehr wenigen kriterien neue interessante rezepte finden könnte.
