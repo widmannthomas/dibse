@@ -27,3 +27,4 @@ API: https://spoonacular.com/food-api
 - Kochzeit
 - Level
 - Für wie viele Personen wird gekocht?
+- Zu Beginn vielleicht ein paar kleine Fragen (Allergene, vegetarier, veganer, bevorzugte Küche), die dann in einem Profil gespeichert und jederzeit geändert werden können. Vielleicht sogar auch vom Profil aus in sein Inventar zugreifen und Zutaten hinzufügen bzw. löschen.
